@@ -15,8 +15,9 @@ The Autotrening.sexy service would let you set up a subscription of a few sessio
 
 ## Status page
 <p align="center">
-<img width="546" alt="Screenshot 2021-08-13 at 10 06 32" src="https://user-images.githubusercontent.com/55540484/129325340-65c7567b-afc4-4703-a9df-642f1433e584.png">
+<img width="546" alt="Screenshot 2021-08-13 at 09 56 59" src="https://user-images.githubusercontent.com/55540484/129337821-dfe15d3b-0f84-497f-ade1-9ac1c8deab51.png">
 </p>
+
 
 ## How it works
 The user fills out a form on the website and presses submit. A http post request is then sent to the backend python server. The entries is then written to a simple database. Another thread is periodically waking up from sleep to perform concurrent booking of the selected entries in the database. It parses the booking website for a key to the specific session and sends concurrent http post requests to perform the accreditation and the booking. 
