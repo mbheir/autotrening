@@ -4,7 +4,7 @@ A booking subscription service for training centers in Trondheim.
 
 ## Description
 During covid, most training centers in Trondheim were completely overbooked due to hard limits on the number of people that were allowed to train simultaneously.
-Training time windows became available on the booking system 48 hours in advance, and would quickly fill up. This meant regular training at the center required you to always be ready on the booking page when a new time window became available. I quickly found this process could be automated and so I made a small solution that would save me time, and that friends could use as well. 
+Training time windows became available on the booking system 48 hours in advance, and would quickly fill up. This meant regular training at the center required you to always be ready on the booking page when a new time window became available. I quickly found this process could be automated and so I made a small solution that would save me time every day, and that friends could use as well. 
 
 The Autotrening.sexy service would let you set up a subscription of a few sessions per week through a website, and then it would automatically book you to the specified sessions. The subscription would go on until changed or cancelled.
 
