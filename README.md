@@ -1,6 +1,6 @@
 # Autotrening.sexy
 
-A booking subscription service for training centers in Trondheim. 
+Automatic training center bookings during covid
 
 ## Description
 During covid, most training centers in Trondheim were completely overbooked due to hard limits on the number of people that were allowed to train simultaneously.
